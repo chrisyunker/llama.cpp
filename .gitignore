@@ -31,7 +31,6 @@
 /.idea/
 /.swiftpm
 /.vs/
-/.vscode/
 /nppBackup
 
 # Coverage
@@ -160,3 +159,4 @@ a.out.*
 
 AGENTS.local.md
 .pi/SYSTEM.md
+.claude/
